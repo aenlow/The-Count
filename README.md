@@ -1,6 +1,7 @@
 # The Count
 
 A single-file blackjack simulator built for mobile. No accounts, no ads, no casino nonsense — just a clean table, real rules, and AI players that actually behave like humans.
+
 Play by going to aenlow.github.io/The-Count, it is also mobile-friendly, so play it on your phone too!
 ---
 
